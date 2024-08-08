@@ -1,2 +1,3 @@
 A short platformer game we made in group during my Erasmus in Polimi. I was in charge of the code and the others of the artistic direction, ... 
 We used the Polyphaser library to make the game.
+You can try it out there : https://badakncx.github.io/ErasmusGame/
